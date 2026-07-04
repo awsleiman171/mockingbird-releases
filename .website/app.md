@@ -15,6 +15,8 @@ loud. Select something in any app, press **Ctrl+Option+S**, and listen —
 pause and resume any time with **Ctrl+Option+P**. Speech is generated
 entirely on your Mac with high-quality neural voices.
 
+![Mockingbird's menu-bar panel reading a text selection aloud](/apps/mockingbird/menu-bar.png)
+
 ## Features
 
 - **Read anything, anywhere** — articles, emails, documents, code comments:
