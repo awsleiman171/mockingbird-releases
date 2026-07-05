@@ -6,7 +6,7 @@ icon: icon.png
 download: https://github.com/awsleiman171/mockingbird-releases/releases/download/v1.1.1/Mockingbird-1.1.1.dmg
 version: 1.1.1
 platforms: [macOS 14+ (Apple Silicon)]
-repo: https://github.com/awsleiman171/mockingbird-releases
+repo: https://github.com/awsleiman-lab/mockingbird
 order: 2
 ---
 
@@ -14,6 +14,7 @@ Mockingbird is a lightweight menu-bar app that reads your selected text out
 loud. Select something in any app, press **Ctrl+Option+S**, and listen —
 pause and resume any time with **Ctrl+Option+P**. Speech is generated
 entirely on your Mac with high-quality neural voices.
+Mockingbird is **open source** (MIT) — read every line before you trust it.
 
 ![Mockingbird's menu-bar panel reading a text selection aloud](/apps/mockingbird/menu-bar.png)
 
