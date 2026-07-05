@@ -3,8 +3,8 @@ slug: mockingbird
 name: Mockingbird
 tagline: Select text anywhere on your Mac and hear it read aloud — with natural, on-device voices.
 icon: icon.png
-download: https://github.com/awsleiman171/mockingbird-releases/releases/download/v1.1.0/Mockingbird-1.1.0.dmg
-version: 1.1.0
+download: https://github.com/awsleiman171/mockingbird-releases/releases/download/v1.1.1/Mockingbird-1.1.1.dmg
+version: 1.1.1
 platforms: [macOS 14+ (Apple Silicon)]
 repo: https://github.com/awsleiman171/mockingbird-releases
 order: 2
